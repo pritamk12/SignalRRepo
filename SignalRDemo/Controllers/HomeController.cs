@@ -8,6 +8,7 @@ namespace SignalRDemo.Controllers
 {
     public class HomeController : Controller
     {
+        // Legal comment
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
